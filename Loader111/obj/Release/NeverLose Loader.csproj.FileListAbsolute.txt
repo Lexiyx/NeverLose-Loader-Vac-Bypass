@@ -1,0 +1,14 @@
+C:\Users\emirm\Desktop\nl\Loader111\bin\Release\NeverLose.exe.config
+C:\Users\emirm\Desktop\nl\Loader111\bin\Release\NeverLose.exe
+C:\Users\emirm\Desktop\nl\Loader111\bin\Release\NeverLose.pdb
+C:\Users\emirm\Desktop\nl\Loader111\bin\Release\Guna.UI2.dll
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose Loader.csproj.AssemblyReference.cache
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose.LOAD.resources
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose.NL.resources
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose.Properties.Resources.resources
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose Loader.csproj.GenerateResource.cache
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose Loader.csproj.CoreCompileInputs.cache
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose Loader.csproj.CopyComplete
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose.exe
+C:\Users\emirm\Desktop\nl\Loader111\obj\Release\NeverLose.pdb
